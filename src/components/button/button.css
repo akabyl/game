@@ -4,6 +4,8 @@
   border: none;
   padding: 5px;
   cursor: pointer;
+  position: relative;
+  z-index: 5;
 }
 
 .btn-primary {

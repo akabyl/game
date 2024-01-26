@@ -11,9 +11,9 @@ const Header = () => {
 				<Link to={'/'} className='header__store-title'>
 					Game Store
 				</Link>
-				<Link className='wrapper header__cart-btn-wrapper'>
+				<div className='wrapper header__cart-btn-wrapper'>
           <CartBlock/>
-        </Link>
+        </div>
 			</div>
 		</div>
 	);
