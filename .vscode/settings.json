@@ -1,5 +1,8 @@
 {
   "editor.wordWrap": "off",
   "editor.insertSpaces": true,
-  "editor.accessibilitySupport": "auto"
+  "editor.accessibilitySupport": "auto",
+  "cSpell.words": [
+    "reduxjs"
+  ]
 }
